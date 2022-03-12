@@ -1,0 +1,97 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Laura Wolvaardt: Record-setting South African set for second Women's World Cup bid",
+      "description": "South Africa's Laura Wolvaardt is only 22 but has already been playing international cricket since 2016 and is set to play at her second World Cup.",
+      "url": "https://www.bbc.co.uk/sport/africa/60570986",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/183E1/production/_123479299_laurawolvaardt.jpg",
+      "publishedAt": "2022-03-03T17:30:32Z",
+      "content": "Laura Wolvaard averages 44.32 in Women's One-Day Internationals\r\n<table><tr><th>ICC Women's World Cup</th></tr>\r\n<tr><td>Dates: 4 March - 3 April Host country: New Zealand</td></tr><tr><td>Coverage: … [+5909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Andrew Prentice",
+      "title": "Tennis champ Ash Barty shocks after announcing she will take time away from tennis",
+      "description": "Australia's sporting queen Ash Barty has confirmed she is taking another break from tennis, formally withdrawing from upcoming tournaments in the US at California and Miami.",
+      "url": "https://www.dailymail.co.uk/sport/tennis/article-10576331/Tennis-champ-Ash-Barty-shocks-announcing-time-away-tennis.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/03/04/04/54934935-0-image-a-62_1646369292235.jpg",
+      "publishedAt": "2022-03-04T05:53:44Z",
+      "content": "Australian tennis ace Ash Barty has dropped a bombshell after announcing she is taking a break from the sport, effective immediately.\r\nThe 25-year-old, who won her third career grand slam title at Me… [+3574 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Cricket World Cup: Hayley Matthews on West Indies, leadership & her friendship with Jofra Archer",
+      "description": "West Indies' Hayley Matthews has already stunned hosts New Zealand, and now she has her sights set on defending champions England.",
+      "url": "https://www.bbc.co.uk/sport/cricket/60642578",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11519/production/_123573907_matthews3.jpg",
+      "publishedAt": "2022-03-07T06:06:33Z",
+      "content": "Hayley Matthews scored 119 and then took 2-41 as West Indies shocked New Zealand in their World Cup opener\r\n<table><tr><th>ICC Women's World Cup: West Indies v England</th></tr>\r\n<tr><td>Venue: Unive… [+4650 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Abhishek Singh",
+      "title": "ICC Women's Cricket World Cup: A deep dive into India's dangerous opponents",
+      "description": "ICC Women's Cricket World Cup 2022: Here's a look at India's schedule and squad for the World Cup alongside a deep dive into its opponents and their key players to watch out for",
+      "url": "https://www.business-standard.com/article/sports/icc-women-s-cricket-world-cup-a-deep-dive-into-india-s-dangerous-opponents-122030300727_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/03/full/1646300021-3646.jpg",
+      "publishedAt": "2022-03-03T09:55:00Z",
+      "content": "The International Cricket Council’s Women’s Cricket World Cup would kickstart on March 04th, 2022 in New Zealand and the Indian team would be competing to get its hands on the shining trophy for the … [+14026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "newsfeeds@nzherald.co.nz",
+      "title": "International Women's Day: Inspiration abounds at Women's Cricket World Cup",
+      "description": "This year on International Women's Day, Kiwi girls and boys don't need to look far to find inspiring role models — the Women's Cricket World Cup is playing out on our shores and it's full of them.Yesterday's White Ferns victory...",
+      "url": "https://www.nzherald.co.nz/sport/international-womens-day-inspiration-abounds-at-womens-cricket-world-cup/76ESPQSSGYDGEHDFMJZDWQRI6Y/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/83KfpTgnlo5r0CiKwXse6VrzJ90=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/3SRGZAT47URK26LUZUF7APPLN4.jpg",
+      "publishedAt": "2022-03-07T18:00:00Z",
+      "content": "Bismah Maroof of Pakistan arrives with her baby during the 2022 ICC Women's Cricket World Cup match between Pakistan and India. Photo / GettyThis year on International Women's Day, Kiwi girls and boy… [+2499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "IANS",
+      "title": "India more than capable of winning Women's World Cup: Mithali Raj",
+      "description": "Mithali said the impact India's title victory in the mega event will have on the country will be \"incredible\"",
+      "url": "https://www.business-standard.com/article/sports/india-more-than-capable-of-winning-women-s-world-cup-mithali-raj-122022200395_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2019-01/04/full/1546618090-217.jpg",
+      "publishedAt": "2022-02-22T06:29:00Z",
+      "content": "India women's cricket team captain Mithali Raj has said that her side is \"more than capable\" of winning the ICC Women's Cricket World Cup, beginning in New Zealand on March 4, adding that it is now \"… [+4596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "author": "FRANCE24",
+      "title": "South Africa eye first World Cup triumph, despite loss of Van Niekerk",
+      "description": "The star all-rounder suffered a freak injury in January, but the second-ranked Proteas will still go into their opening match against Bangladesh in Dunedin on Saturday as one of the teams to beat.\n\nVan Niekerk, who has a batting average of 36.48 and has taken…",
+      "url": "https://www.france24.com/en/live-news/20220303-south-africa-eye-first-world-cup-triumph-despite-loss-of-van-niekerk",
+      "urlToImage": "https://s.france24.com/media/display/b7fd0968-9a8c-11ec-9ad2-005056a90284/w:1280/p:16x9/faee09febab950ff3e1d46d1b87f603ca65ed050.jpg",
+      "publishedAt": "2022-03-03T00:56:12Z",
+      "content": "Wellington (AFP) If South Africa are to win the Women's World Cup for the first time they will have to do it without captain Dane van Niekerk, who will be missing when the tournament begins in New Ze… [+2848 chars]"
+    }
+  ]
+}
